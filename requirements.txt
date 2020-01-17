@@ -1,0 +1,9 @@
+voila
+qgrid
+pandas
+numpy
+swifter
+seaborn
+pathlib
+matplotlib
+ipywidgets
